@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    color: aqua;
+}
+.body-content{
+    font-size: 29px;
+}
+
+.body-image img{
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .header_nav {
+        margin-left: -2%;
+        width: 141%;
+    }
+}
+.footer{
+    background-color: aqua;
+    color: aqua;
+    text-align: center;
+}
